@@ -1,0 +1,64 @@
+<resources>
+    <string name="app_name">Helping Hands</string>
+    <string name="prompt_email">Email</string>
+    <string name="prompt_password">Password</string>
+    <string name="btn_login">Login</string>
+    <string name="btn_no_account">No account? Create one</string>
+    <string name="error_incorrect_credentials">Incorrect username or password.</string>
+    <string name="error_email_unverified">Email has not been verified.</string>
+    <string name="tv_select_user_type">Select User Type</string>
+    <string name="btn_donor">Donor</string>
+    <string name="btn_charity">Charity</string>
+    <string name="btn_already_member">Already a member? Login</string>
+    <string name="prompt_fname">First name</string>
+    <string name="prompt_lname">Last name</string>
+    <string name="prompt_phone">Phone number (optional)</string>
+    <string name="btn_create_account">Create Account</string>
+    <string name="error_empty_field">This field cannot be empty.</string>
+    <string name="error_invalid_name">Cannot have any numbers or begin with a space.</string>
+    <string name="error_invalid_password">Must be 4-16 characters long and contain at least one number, symbol, lowercase and uppercase letter.</string>
+    <string name="error_email_unavailable">Email is already registered.</string>
+    <string name="error_invalid_email">Invalid email address.</string>
+    <string name="error_invalid_phone">Must be a 10-digit mobile number.</string>
+    <string name="prompt_organisation">Organisation</string>
+    <string name="prompt_address">Address</string>
+    <string name="prompt_state">State</string>
+    <string name="prompt_postcode">Postcode</string>
+    <string name="btn_resend_email">Resend Email</string>
+    <string name="btn_continue">Continue</string>
+    <string name="tv_registration_successful">
+        Your account has been registered successfully.\n\n
+        Please verify your account using the link in the email we have just sent you.
+    </string>
+    <string name="tv_donor">Donor</string>
+    <string name="tv_charity">Charity</string>
+
+    <string name="title_home">Home</string>
+    <string name="title_dashboard">Dashboard</string>
+    <string name="title_notifications">Notifications</string>
+    <string name="book">Make a Booking</string>
+    <string name="view">Booking History</string>
+    <string name="calendar">Calendar</string>
+    <string name="title_activity_book__time">Book_Time</string>
+    <string name="title_activity_booking__time">booking_Time</string>
+    <string name="booking_header_text">Make a Booking</string>
+    <string name="view_bookings">This will be filled in as we values for the database</string>
+    <string name="title_activity_view__bookings">view_Bookings</string>
+    <string name="charity">Charity</string>
+    <string name="name_of_desired_charity">Desired Charity</string>
+    <string name="date">Date</string>
+    <string name="time">Time</string>
+    <string name="app_name_version">Helping Hands Pre-Release 1</string>
+    <string name="enter_your_email_address">Enter your email address</string>
+    <string name="email">Email</string>
+    <string name="title_activity_book_time_charity">book_time_charity</string>
+    <string name="create_an_event">Create an event</string>
+    <string name="event">Make an Event</string>
+    <string name="enter_the_name_of_your_event">Enter the name of your event</string>
+    <string name="create">Create</string>
+    <string name="create_an_event_header">Create an Event</string>
+    <string name="enter_your_event_name">Enter your event name</string>
+    <string-array name="allCharities"></string-array>
+    <string name="title_activity_searching">Searching</string>
+    <string name="title_calendar">Calendar</string>
+</resources>
